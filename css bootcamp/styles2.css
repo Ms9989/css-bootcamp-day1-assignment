@@ -1,0 +1,13 @@
+.box{
+    border:2px solid lightgray;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+.img{
+   width:100%;
+   height:255px;
+}
+.discription{
+    color:lightgrey;
+}
